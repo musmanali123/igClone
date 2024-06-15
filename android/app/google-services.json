@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "10428894886",
+    "project_id": "instagramclone-e95ef",
+    "storage_bucket": "instagramclone-e95ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10428894886:android:49e8faf592423d8d95ee67",
+        "android_client_info": {
+          "package_name": "com.rahaalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10428894886-bfjfivij6ggqp6o0e74hq0o2tor36nvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahaalapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "10428894886-8td5vg45o4vnqk396ju99oveoa21a8ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK9i5ViKhOXR2Ea-sQ49pFgjU5dorg4T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10428894886-8td5vg45o4vnqk396ju99oveoa21a8ti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10428894886-0m6qd5po00g8qv29eta001uo0nbhu21n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RahaalApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
